@@ -9,4 +9,4 @@
 var comments = $('a[href$="/user/DAI"],[href$="/user/highlander100"]');
 
 // navigate up to parent div, hide comment
-comments.parent().parent().parent().parent().hide();
+comments.parent().parent().parent().hide();
